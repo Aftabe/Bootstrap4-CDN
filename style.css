@@ -1,0 +1,15 @@
+/* Normalizing css */
+* {
+    padding: 0;
+    margin: 0;
+}
+ 
+body {
+    background: ivory;
+    color: black;
+}
+
+.navbar {
+    color: black !important;
+    background-color: black !important;
+}
