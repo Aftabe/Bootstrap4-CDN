@@ -12,10 +12,10 @@ body {
 
 .banner{
     padding: 100%;
-    min-height: (100% - 56px);
+    min-height: (100px - 56px);
     width: 100%;
     background-image: url('https://images.unsplash.com/photo-1583074761211-7ed66a172d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80');
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-attachment: fixed;
     /* background-color: green; */
 }
