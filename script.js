@@ -1,5 +1,8 @@
-console.log('This is the text where you can see in the console, statement one');
-console.log('This is the text where you can see in the console, statement two');
+let info;
 
-var name = prompt('What is your name budy!');
-document.write( "Welcome" + name);
+info = document.forms[0].classList[1];
+
+
+
+
+console.log(info);
