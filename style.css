@@ -13,11 +13,12 @@
     --Transparent: rgba(12, 188, 207, 0.534);
     --mainGrey: #b1a9a9;
     --mainYellow: #F3CA40;
+    --mainBlack: #0e0d0d;
 }
 
 body {
     background: ivory;
-    color: rgb(14, 12, 12);
+    color: #0e0d0d;
     font-size: medium;
 }
 
@@ -41,17 +42,22 @@ body {
 }
 
 /* button style */
-.button {
-    background-color: --mainGreenLight;
+.about-btn {
+    background-color: #4BB977;
     border: none;
     color: white;
-    padding: 16px 32px;
+    padding: 14px 32px;
     text-align: center;
     font-size: 16px;
     margin: 4px 2px;
-    opacity: 0.6;
-    transition: 0.3s;
+    opacity: 0.8;
+    transition: 0.4s;
     display: inline-block;
     text-decoration: none;
     cursor: pointer;
+    text-transform: uppercase;
+}
+
+.about-btn:hover {opacity: 1;
+    color: #0e0d0d;
 }
