@@ -91,3 +91,9 @@ body {
     background-color: grey;
     margin-top: 10px;
 }
+.new-container h1{
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
