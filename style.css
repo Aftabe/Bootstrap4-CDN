@@ -87,5 +87,7 @@ body {
 
 /* new-container style */
 .new-container{
-    
+    height: 50vh;
+    background-color: grey;
+    margin-top: 10px;
 }
