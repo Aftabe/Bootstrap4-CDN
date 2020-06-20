@@ -99,9 +99,10 @@ body {
 }
 .new-container p{
     text-align: center;
+    /* width: 500px; */
 }
 .new-container button{
-    margin-left: 120px;
+    margin-left: 700px;
     padding: 7px 20px;
     text-transform: capitalize;
     border: none;
