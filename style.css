@@ -99,7 +99,7 @@ body {
 }
 .new-container p{
     text-align: center;
-    /* width: 500px; */
+    width: 500px;
 }
 .new-container button{
     margin-left: 700px;
