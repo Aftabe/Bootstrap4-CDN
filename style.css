@@ -34,3 +34,10 @@ body {
         rgba(41, 116, 48, 0.750)),
         url('https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1498&q=80')center/cover fixed no-repeat;
 }
+
+
+/* Chnage bkc  for button style*/
+.chnage{
+    background-color: grey;
+    color: black;
+}
