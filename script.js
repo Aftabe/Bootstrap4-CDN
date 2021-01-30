@@ -1,5 +1,10 @@
-var btn = document.querySelectorAll('button');
-for(i = 0; i < btn.length; i++){
-    btn[i].onclick = function(){
-    }
+var el = document.getElementById('btn');
+
+el.addEventListener('click', saySomeThing);
+
+
+function saySomeThing(){
+    // document.body.style.backgroundColor = 'blue';
+    var cls = this.innerHTML.toLowerCase();
+    document.body.className = cls;
 }
