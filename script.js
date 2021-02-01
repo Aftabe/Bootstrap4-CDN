@@ -8,5 +8,5 @@ function saySomeThing(){
     document.body.className = cls;
 }
 document.body.addEventListener('click', function(){
-    document.body.innerHTML = ' ';
+    // document.body.innerHTML = ' ';
 })
