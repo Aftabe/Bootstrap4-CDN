@@ -10,3 +10,10 @@ function saySomeThing(){
 document.body.addEventListener('click', function(){
     // document.body.innerHTML = ' ';
 })
+
+// button
+var btn = document.getElementById('btn');
+btn.style.color = 'red';
+btn.style.padding = '10px 40px';
+// btn.style.border = 'none';
+btn.style.borderColor = '#4BB977';
