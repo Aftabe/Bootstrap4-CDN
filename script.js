@@ -15,5 +15,6 @@ document.body.addEventListener('click', function(){
 var btn = document.getElementById('btn');
 btn.style.color = 'red';
 btn.style.padding = '10px 40px';
+btn.style.borderRadius = '10px';
 // btn.style.border = 'none';
 btn.style.borderColor = '#4BB977';
