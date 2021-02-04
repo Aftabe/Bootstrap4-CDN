@@ -22,8 +22,9 @@ btn.style.borderColor = '#4BB977';
 
 // How to create an object in js
 const client = {
-    person: 'Juan',
+    person: 'Ali',
     balance: 2000,
+    saldo: 700,
     membership : function() {
            let name;
            // Check different Balance
@@ -37,7 +38,7 @@ const client = {
            return name;
     }
  }
- console.log(client);
-//  console.log(client.name);
+//  console.log(client);
+//  console.log(client.person);
 //  console.log(client.balance);
-//  console.log(client.membership() );
+ console.log(client.membership() );
