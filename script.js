@@ -24,7 +24,6 @@ btn.style.borderColor = '#4BB977';
 const client = {
     person: 'Ali',
     balance: 2000,
-    saldo: 700,
     membership : function() {
            let name;
            // Check different Balance
