@@ -49,3 +49,9 @@ h1::first-letter{
 h1::first-line{
     color: #4BB977;
 }
+
+.text-style{
+    font-size: 30px;
+    color: green;
+    margin-left: 20px;
+}
