@@ -41,3 +41,7 @@ const client = {
 //  console.log(client.person);
 //  console.log(client.balance);
  console.log(client.membership() );
+
+//  Text
+var txt = document.querySelector('.txt');
+txt.className = "text-style";
